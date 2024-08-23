@@ -2,17 +2,9 @@
 The Web app focusses on implementing Full Stack Web Development Using NodeJS and ExpressJS as backend along with use of requests module for working with third party apis.
 This project is a template for a simple todo list app without any database. This is a v1 project. Will add database functionality later.
 
-
-
-This is one of the projects for The Complete Web Development Bootcamp Course.
-
-The Webpage focusses on implementing simple Web Development Using HTML and CSS.
-
-This project is a template for penpals which is a static website.
-
 ## Snapshots:
 ### 1-
-![](./Screenshots/Screenshot-1.PNG)
+![](./Screenshots/Check Off Completed Task.PNG)
 
 ### 2-
 ![](./Screenshots/Screenshot-2.PNG)
