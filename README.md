@@ -10,10 +10,8 @@ This project is a template for a simple todo list app without any database. This
 ![](./Screenshots/Screenshot-2.PNG)
 
 ### 3-
-![](./Screenshots/Screenshot-3.PNG)
+![](./Screenshots/Screenshot-1.PNG)
 
-### 3-
-![](./Screenshots/Screenshot-4.PNG)
 
 ### Links
 
