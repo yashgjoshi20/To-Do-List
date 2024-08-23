@@ -2,7 +2,7 @@
 The Web app focusses on implementing Full Stack Web Development Using NodeJS and ExpressJS as backend along with use of requests module for working with third party apis.
 This project is a template for a simple todo list app without any database. This is a v1 project. Will add database functionality later.
 
-## Snapshots:
+## Screenshots:
 ### 1-
 ![](./Screenshots/Screenshot-1.PNG)
 
@@ -10,13 +10,13 @@ This project is a template for a simple todo list app without any database. This
 ![](./Screenshots/Screenshot-2.PNG)
 
 ### 3-
-![](./Screenshots/Screenshot-.PNG)
+![](./Screenshots/Screenshot-3.PNG)
 
 
 ### Links
 
-- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/Pen-Pals.git)
-- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/Pen-Pals/)
+- Solution URL:  [Solution  URL](https://github.com/yashgjoshi20/To-Do-List.git)
+- Live Site URL: [GitHub Pages Live URL](https://yashgjoshi20.github.io/To-Do-List/)
 
 ### Built with
 
