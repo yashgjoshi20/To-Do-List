@@ -4,13 +4,13 @@ This project is a template for a simple todo list app without any database. This
 
 ## Snapshots:
 ### 1-
-![](./Screenshots/CheckOffCompletedTask.PNG)
+![](./Screenshots/Screenshot-1.PNG)
 
 ### 2-
 ![](./Screenshots/Screenshot-2.PNG)
 
 ### 3-
-![](./Screenshots/Screenshot-1.PNG)
+![](./Screenshots/Screenshot-.PNG)
 
 
 ### Links
