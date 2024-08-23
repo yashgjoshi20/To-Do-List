@@ -3,13 +3,13 @@ The Web app focusses on implementing Full Stack Web Development Using NodeJS and
 This project is a template for a simple todo list app without any database. This is a v1 project. Will add database functionality later.
 
 ## Screenshots:
-### 1-
+### 1- Screenshot-1
 ![](./Screenshots/Screenshot-1.PNG)
 
-### 2-
+### 2- Screenshot-2
 ![](./Screenshots/Screenshot-2.PNG)
 
-### 3-
+### 3- Screenshot-3
 ![](./Screenshots/Screenshot-3.PNG)
 
 
